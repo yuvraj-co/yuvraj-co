@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yuvraj-co
+- 👋 Hi, I’m yuvraj
 - 👀 I’m interested in software developing
 - 🌱 I’m currently learning c, c++, java, sql
 - 💞️ I’m looking to collaborate on sql
